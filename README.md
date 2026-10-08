@@ -13,6 +13,8 @@
 3. [Середовище розробки Visual Studio та платформа .NET](/Lessons/3_Visual_Studio.md)
 4. [Виведення, змінні та типи даних](/Lessons/4_Variables.md)
 5. [Введення даних та арифметика](/Lessons/5_Input_Arithmetic.md)
+6. [Логічний тип даних та логічні вирази](/Lessons/6_Logical_Expressions.md)
+7. [Оператор розгалуження if](/Lessons/7_If_Statement.md)
 
 ## [🎯 Самостійні завдання](/Homeworks/)
 1. [Складання словесних алгоритмів](/Homeworks/Homework_1.md)
