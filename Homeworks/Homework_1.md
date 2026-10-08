@@ -7,7 +7,7 @@
 
 ---
 
-<p style="text-align: center">
+<p align="center">
     У MyStat потрібно завантажити код додатку та скриншоти його тестування.
 </p>
 

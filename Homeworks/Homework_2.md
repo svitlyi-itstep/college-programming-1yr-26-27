@@ -37,7 +37,7 @@ https://www.maxzosim.com/blok-skhema/
 
 ---
 
-<p style="text-align: center">
+<p align="center">
     У MyStat потрібно завантажити блок-схему та словесний опис алгоритму
 </p>
 
