@@ -81,7 +81,7 @@ Console.WriteLine($"C = 2 * 3.14 * {r} = {C}");
 
 ---
 
-<p style="text-align: center">
+<p align="center">
     У MyStat потрібно завантажити код програми та скріншоти/відео її роботи
 </p>
 
