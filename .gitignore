@@ -29,3 +29,6 @@ $RECYCLE.BIN/
 
 # ===== Office temp files =====
 ~$*
+
+# ===== Course planning (local only, never commit) =====
+Planning/
